@@ -1,4 +1,4 @@
 # learning-repo
 this is repo is created only for the purpose of learning.
 </br>
-Autor - Nikhil Kumar
+Autor - Nikhil (learning)
